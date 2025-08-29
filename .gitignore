@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.db
+node_modules/
+.env.local
+.env.*
+.idea/
+.DS_Store
+
